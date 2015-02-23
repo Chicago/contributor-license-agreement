@@ -67,7 +67,7 @@ has waived such rights for your Contributions to the City, or that your employer
 separate Corporate CLA with the City.
 
 5 You represent that each of Your Contributions is Your original creation (see section 7 for 
-ubmissions on behalf of others). You represent that Your Contribution submissions include complete 
+submissions on behalf of others). You represent that Your Contribution submissions include complete 
 details of any third-party license or other restriction (including, but not limited to, related 
 patents and trademarks) of which you are personally aware and which are associated with any part 
 of Your Contributions.
