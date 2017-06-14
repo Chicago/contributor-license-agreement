@@ -2,7 +2,7 @@
 
 ### Individual Contributor License Agreement ("Agreement") 
 
-Thank you for your interest in journal-chicago by the City of Chicago (the "City"), 
+Thank you for your interest in [project-name] by the City of Chicago (the "City"), 
 a municipal corporation and home rule unit of local government existing under the 
 Constitution of the State of Illinois. In order to clarify the intellectual property 
 license granted with Contributions from any person or entity, the City must have a 
